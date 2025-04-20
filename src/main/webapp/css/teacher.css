@@ -1,0 +1,100 @@
+/*总体样式*/
+body{
+    margin: 0;
+    padding: 0;
+    background: #f5f2f2;
+}
+.clear{
+    clear: both;
+}
+/*其他样式*/
+.head{
+    width: 100%;
+    min-width: 500px;
+    height: 15em;
+    background: #b995fc;
+    margin: 0;
+    padding: 0;
+}
+.nav{
+    width: 100%;
+    height: 3.5em;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.mid{
+    margin: 0 auto;
+    width: 75%;
+    min-width: 500px;
+    padding: 1em;
+    /*border: 1px black solid;*/
+}
+
+/*index页面样式*/
+.head_index{
+    min-width: 500px;
+    height: 12em;
+    background: #6597fa;
+    padding: 2em;
+    position: relative;
+}
+.head_index_inner{
+    width: 72%;
+    margin: 0 auto;
+    color: white;
+    /*上下居中*/
+    position: absolute;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    /*border: 1px black solid;*/
+}
+.head_index_inner_left{
+    float: left;
+    height: 3em;
+    line-height: 3em;
+}
+.head_index_inner_right{
+    float: right;
+}
+
+.course{
+    /*padding: 2em;*/
+    padding: 2%;
+    float: left;
+    width: 66%;
+    min-height: 80em;
+    margin: 2%;
+    background: white;
+    border-radius: 1em;
+}
+.course_rate{
+    float: right;
+    margin: 3%;
+    height: 3em;
+    line-height: 3em;
+}
+.course_title{
+    float: left;
+    height: 3em;
+    line-height: 3em;
+}
+/*#course_first{*/
+/*    display: block;*/
+/*}*/
+/*#course_second{*/
+/*    display: none;*/
+/*}*/
+/*#course_third{*/
+/*    display: none;*/
+/*}*/
+.info{
+    float: left;
+    /*height: 10em;*/
+    width: 20%;
+    margin: 2%;
+    background: white;
+    border-radius: 1em;
+}
+.info p{
+    margin-left: 1em;
+}

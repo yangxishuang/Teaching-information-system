@@ -1,0 +1,52 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+#app{
+    width: 25%;
+    margin: 0 auto;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, .12), 0 0 6px rgba(0, 0, 0, .04);
+    padding: 2.5em;
+    /*上下居中*/
+    position: absolute;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background: white;
+}
+
+#title{
+    text-align: center;
+}
+
+#btn{
+    width: 100%;
+    /*text-align: center;*/
+}
+
+.logInner{
+    width: 70%;
+    margin: 0 auto;
+    padding: 0;
+}
+
+#forgive{
+    float: right;
+    margin-left: 5%;
+}
+
+#formStyle{
+    text-align: center;
+}
+
+#thing{
+    width: 70%;
+    margin: 0 auto;
+}
+#ckCode{
+    width: 65%;
+}
+#checkCodeImg{
+    float: left;
+}

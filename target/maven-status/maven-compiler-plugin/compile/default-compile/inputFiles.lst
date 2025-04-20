@@ -1,0 +1,10 @@
+E:\JavaWeb\Teaching-information-system\src\main\java\com\yxs\web\SelectUserServlet.java
+E:\JavaWeb\Teaching-information-system\src\main\java\com\yxs\pojo\User.java
+E:\JavaWeb\Teaching-information-system\src\main\java\com\yxs\mapper\UserMapper.java
+E:\JavaWeb\Teaching-information-system\src\main\java\com\yxs\service\UserService.java
+E:\JavaWeb\Teaching-information-system\src\main\java\com\yxs\util\SqlSessionFactoryUtils.java
+E:\JavaWeb\Teaching-information-system\src\main\java\com\yxs\web\LoginServlet.java
+E:\JavaWeb\Teaching-information-system\src\main\java\com\yxs\web\CheckCodeServlet.java
+E:\JavaWeb\Teaching-information-system\src\main\java\com\yxs\web\RegisterServlet.java
+E:\JavaWeb\Teaching-information-system\src\main\java\com\yxs\util\CheckCodeUtil.java
+E:\JavaWeb\Teaching-information-system\src\main\java\com\yxs\web\SelectAllStuServlet.java

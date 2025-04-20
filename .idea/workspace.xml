@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="df8cd3f1-0ba0-4422-9649-76dc1d97fdbd" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Jsp File" />
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HMK5MKP0KBs8sE3rkARUH86HqC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;16.13.1&quot;,
+    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;16.18.3&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/JavaWeb/Teaching-information-system/pom.xml&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;E:\\Install\\IDEA\\IntelliJ IDEA 2022.2.3\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JavaWeb\Teaching-information-system\src\main\webapp" />
+      <recent name="D:\JavaWeb\Teaching-information-system\src\main\webapp\css" />
+      <recent name="D:\JavaWeb\Teaching-information-system\src\main\resources\com\yxs\mapper" />
+      <recent name="D:\JavaWeb\Teaching-information-system\src\main\webapp\js" />
+      <recent name="D:\JavaWeb\Teaching-information-system\src\main\webapp\imgs" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.yxs.web" />
+      <recent name="com.yxs.util" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df8cd3f1-0ba0-4422-9649-76dc1d97fdbd" name="Changes" comment="" />
+      <created>1668089329160</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668089329160</updated>
+      <workItem from="1668089331646" duration="3138000" />
+      <workItem from="1668137410327" duration="28250000" />
+      <workItem from="1668176814546" duration="9091000" />
+      <workItem from="1668220574878" duration="24752000" />
+      <workItem from="1668262864187" duration="6781000" />
+      <workItem from="1668272601872" duration="368000" />
+      <workItem from="1668314093141" duration="22478000" />
+      <workItem from="1668359795227" duration="19000" />
+      <workItem from="1668397474452" duration="5310000" />
+      <workItem from="1668410820058" duration="8112000" />
+      <workItem from="1668778156217" duration="13000" />
+      <workItem from="1669296626050" duration="27000" />
+      <workItem from="1672249779471" duration="50000" />
+      <workItem from="1675062914330" duration="30000" />
+      <workItem from="1675516618540" duration="87000" />
+      <workItem from="1675681586064" duration="2189000" />
+      <workItem from="1676341580058" duration="16615000" />
+      <workItem from="1677251749785" duration="216000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
